@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20MinHo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-<div style="text-align:center">Hi Guys! 🙂 </div>
-<div style="text-align:center">I'm interested in Back-end, server!</div>
+<div align="center">Hi Guys! 🙂 </div>
+<div align="center">I'm interested in Back-end, server!</div>
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -35,14 +35,14 @@
 
 <br>
 
-<h2 style="text-align:center">🏃‍♂️ Github stats 🏃‍♂️ </h2>
+<h2 align="center">🏃‍♂️ Github stats 🏃‍♂️ </h2>
 <div align="center">
 
 ![chominho96's github stats](https://github-readme-stats.vercel.app/api?username=chominho96&show_icons=true)
 
 </div>
 
-<h2 style="text-align:center">🏃 Solved.ac 🏃‍♂️ </h2>
+<h2 align="center">🏃 Solved.ac 🏃‍♂️ </h2>
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chominho96)](https://solved.ac/chominho96)
