@@ -42,6 +42,13 @@
 
 </div>
 
+<h2 align="center">🏃‍♂️ Top languages 🏃‍♂️ </h2>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chominho96&layout=compact)](https://github.com/chominho96)
+  
+</div>
+
 <h2 align="center">🏃 Solved.ac 🏃‍♂️ </h2>
 <div align="center">
 
