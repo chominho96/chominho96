@@ -53,6 +53,6 @@
 <div align="center">
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chominho96)](https://solved.ac/chominho96/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=chominho96)](https://solved.ac/chominho96/)
 
 </div>
