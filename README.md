@@ -38,14 +38,14 @@
 <h2 align="center">🏃‍♂️ Github stats 🏃‍♂️ </h2>
 <div align="center">
 
-![chominho96's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=chominho96&show_icons=true)
+![chominho96's github stats](https://github-readme-stats.vercel.app/api?username=chominho96&show_icons=true)
 
 </div>
 
 <h2 align="center">🏃‍♂️ Top languages 🏃‍♂️ </h2>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=chominho96&layout=compact)](https://github.com/chominho96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chominho96&layout=compact)](https://github.com/chominho96)
   
 </div>
 
