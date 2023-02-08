@@ -28,7 +28,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://chominho96.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://chominho96.github.io"/></a>&nbsp
-  <a href="mailto:chominho96@inha.edu"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chominho96@inha.edu"/></a>
+  <a href="mailto:chominho96@g.skku.edu"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chominho96@g.skku.edu"/></a>
 </p>
 
 <br>
