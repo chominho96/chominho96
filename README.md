@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JSP-d96913?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Verilog-FFFFFF?style=flat-square&logo=Vonage&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
