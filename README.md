@@ -37,7 +37,7 @@
 <h2 align="center">🏃‍♂️ Github stats 🏃‍♂️ </h2>
 <div align="center">
 
-![chominho96's github stats](https://github-readme-stats.vercel.app/api?username=chominho96&show_icons=true)
+![chominho96's github stats](https://github-readme-stats.vercel.app/api?username=chominho96&show_icons=true&count_private=true)
 
 </div>
 
